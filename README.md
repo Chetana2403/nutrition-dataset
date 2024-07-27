@@ -12,10 +12,10 @@ The dataset includes the following columns:
 - `Name`: Name of the food item
 - `Serving (grams)`: Serving size in grams
 - `Calories`: Number of calories
-- `Fat`: Amount of fat in grams
-- `Protein`: Amount of protein in grams
-- `Carbohydrates`: Amount of carbohydrates in grams
-- `Fiber`: Amount of fiber in grams
+- `Fat`: Amount of fat 
+- `Protein`: Amount of protein 
+- `Carbohydrates`: Amount of carbohydrates 
+- `Fiber`: Amount of fiber 
 
 ## Usage
 
